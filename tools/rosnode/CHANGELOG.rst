@@ -2,6 +2,11 @@
 Changelog for package rosnode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* rosnode: Fix unclosed socket in rosnode_ping command (`#2381 <https://github.com/ros/ros_comm/issues/2381>`_)
+* Contributors: Ricardo Marques
+
 1.17.1 (2025-04-26)
 -------------------
 * Make rosnode info show topic types of unconnected subscribers (`#2366 <https://github.com/ros/ros_comm/issues/2366>`_)
